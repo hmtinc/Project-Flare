@@ -1,4 +1,4 @@
-![logo](https://github.com/hmtinc/)
+![logo](https://raw.githubusercontent.com/hmtinc/Project-Flare/master/logo.png)
 # Project Flare
 Flare is a work in progress 3rd person survival shooter designed in unity with c# scripts
 
