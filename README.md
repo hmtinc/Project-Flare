@@ -6,7 +6,7 @@ Flare is a work in progress 3rd person survival shooter designed in unity with c
 There currently isn’t a compiled version of Flare available, but you can easily build the game by importing the scripts and assets into Unity 3D.  
 
 #Incorporating Flare Scripts in Your Unity Game 
-Diceware ++ was designed with the intention to be create a 3rd person survival shooter without using any third party assets, as a result a lot of key scripts rely very little on 
+Flare was designed with the intention to be create a 3rd person survival shooter without using any third party assets, as a result a lot of key scripts rely very little on 
 additional assets. If you wish to use these scripts in your, please consider including proper credit in your code
 
 
